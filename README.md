@@ -13,7 +13,7 @@ São desafios para provar os conhecimentos ensinados no curso JAVA SPRING PROFES
 - Configuração de componentes Spring e injeção de dependência
 - Implementação de projeto de componentes
 
-## Order
+## Evento
 
 - Implementação de modelo de domínio por JPA
 - Criação de um perfil de teste
